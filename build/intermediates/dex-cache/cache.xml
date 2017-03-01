@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/afs/ualberta.ca/home/l/i/livia1/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/afs/ualberta.ca/home/l/i/livia1/Desktop/Feb28/lonelyTwitter/app/build/intermediates/pre-dexed/debug/gson-2.7-794a6097c2ff6f48c229d3650aeda1d72700cdad.jar" />
+    </item>
+    <item
+        jar="/afs/ualberta.ca/home/l/i/livia1/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.6.3/94ec2d7b23be9817d92905cc09124aecfc46d28c/robotium-solo-5.6.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="94ec2d7b23be9817d92905cc09124aecfc46d28c">
+        <dex dex="/afs/ualberta.ca/home/l/i/livia1/Desktop/Feb28/lonelyTwitter/app/build/intermediates/pre-dexed/debug/robotium-solo-5.6.3-887a2f539f787820960b45de8c0c12eb27cefef5.jar" />
+    </item>
+
+</items>
